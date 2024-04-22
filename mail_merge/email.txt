@@ -1,0 +1,7 @@
+Hi [Name]
+
+Your avaya deskphone password is [password]
+
+Many thanks
+
+IT Service Desk
